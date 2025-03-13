@@ -1,0 +1,16 @@
+digraph G {
+  graph [ ratio = "auto", page = "40" ];
+  "UniswapV3PoolDeployer";
+  "IUniswapV3PoolDeployer";
+  "UniswapV3Factory";
+  "IUniswapV3Factory";
+  "NoDelegateCall";
+  "UniswapV3Pool";
+  "IUniswapV3Pool";
+  "UniswapV3PoolDeployer" -> "IUniswapV3PoolDeployer";
+  "UniswapV3Factory" -> "IUniswapV3Factory";
+  "UniswapV3Factory" -> "UniswapV3PoolDeployer";
+  "UniswapV3Factory" -> "NoDelegateCall";
+  "UniswapV3Pool" -> "IUniswapV3Pool";
+  "UniswapV3Pool" -> "NoDelegateCall";
+}

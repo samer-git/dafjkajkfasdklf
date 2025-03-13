@@ -1,0 +1,14 @@
+/Users/rhiddhi/Documents/Swinburne Semester 2/OOP/T1SemTest/T1SemTest/T1SemTest/bin/Debug/net7.0/T1SemTest
+/Users/rhiddhi/Documents/Swinburne Semester 2/OOP/T1SemTest/T1SemTest/T1SemTest/bin/Debug/net7.0/T1SemTest.deps.json
+/Users/rhiddhi/Documents/Swinburne Semester 2/OOP/T1SemTest/T1SemTest/T1SemTest/bin/Debug/net7.0/T1SemTest.runtimeconfig.json
+/Users/rhiddhi/Documents/Swinburne Semester 2/OOP/T1SemTest/T1SemTest/T1SemTest/bin/Debug/net7.0/T1SemTest.dll
+/Users/rhiddhi/Documents/Swinburne Semester 2/OOP/T1SemTest/T1SemTest/T1SemTest/bin/Debug/net7.0/T1SemTest.pdb
+/Users/rhiddhi/Documents/Swinburne Semester 2/OOP/T1SemTest/T1SemTest/T1SemTest/obj/Debug/net7.0/T1SemTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rhiddhi/Documents/Swinburne Semester 2/OOP/T1SemTest/T1SemTest/T1SemTest/obj/Debug/net7.0/T1SemTest.AssemblyInfoInputs.cache
+/Users/rhiddhi/Documents/Swinburne Semester 2/OOP/T1SemTest/T1SemTest/T1SemTest/obj/Debug/net7.0/T1SemTest.AssemblyInfo.cs
+/Users/rhiddhi/Documents/Swinburne Semester 2/OOP/T1SemTest/T1SemTest/T1SemTest/obj/Debug/net7.0/T1SemTest.csproj.CoreCompileInputs.cache
+/Users/rhiddhi/Documents/Swinburne Semester 2/OOP/T1SemTest/T1SemTest/T1SemTest/obj/Debug/net7.0/T1SemTest.dll
+/Users/rhiddhi/Documents/Swinburne Semester 2/OOP/T1SemTest/T1SemTest/T1SemTest/obj/Debug/net7.0/refint/T1SemTest.dll
+/Users/rhiddhi/Documents/Swinburne Semester 2/OOP/T1SemTest/T1SemTest/T1SemTest/obj/Debug/net7.0/T1SemTest.pdb
+/Users/rhiddhi/Documents/Swinburne Semester 2/OOP/T1SemTest/T1SemTest/T1SemTest/obj/Debug/net7.0/T1SemTest.genruntimeconfig.cache
+/Users/rhiddhi/Documents/Swinburne Semester 2/OOP/T1SemTest/T1SemTest/T1SemTest/obj/Debug/net7.0/ref/T1SemTest.dll
